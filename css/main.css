@@ -54,6 +54,13 @@ img {
 
 @media only screen and (min-width: 60em) {
 
+  img:nth-child(5) {
+    display: block;
+  }
+
+  img:first-child {
+    width: 66.66%;
+  }
 }
 
 @media only screen and (min-width: 90em) {

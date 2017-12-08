@@ -31,7 +31,7 @@ img:nth-child(2) {
   display: none;
 }
 
-img:nth-child(5){
+img:nth-child(5) {
   display: none;
 }
 
@@ -52,7 +52,7 @@ img:nth-child(5){
     display: block;
   }
 
-  img:nth-child(5){
+  img:nth-child(5) {
     display: block;
   }
 }

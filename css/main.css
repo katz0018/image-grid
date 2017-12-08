@@ -30,13 +30,13 @@ img {
 @media only screen and (min-width: 25em) {
 
   img {
-    display: inline-block;
-    width: 30%;
+    display: block;
+    width: 50%;
     max-width: 100%;
+    float: left;
   }
 
   img:first-child {
-    display: block;
     width: 100%
   }
 

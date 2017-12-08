@@ -44,6 +44,13 @@ img {
 
 @media only screen and (min-width: 38em) {
 
+  img:last-child {
+    display: none;
+  }
+
+  img {
+    width: 33.33%;
+  }
 }
 
 @media only screen and (min-width: 60em) {
